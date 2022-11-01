@@ -1,0 +1,5 @@
+com\ahmtkutlu\feign\FeignExampleApplication.class
+model\SearchContext.class
+model\SearchData.class
+controller\MovieController.class
+client\MovieFeignClient.class
